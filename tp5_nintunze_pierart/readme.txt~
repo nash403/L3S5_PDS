@@ -1,0 +1,7 @@
+Auteurs: Honoré NINTUNZE et Valentin Pierart.
+
+La commande make test nettoie le répartoire en enlevant les fichiers intermédiaires puis lance les différentes commandes qui créent les erreurs.
+La commande fait tout ce qu'il faut mais déclenche cette erreur à la fin : make: *** [test] Erreur 20
+Je ne sais pas pourquoi.
+
+make all compile tout et lance les tests.
